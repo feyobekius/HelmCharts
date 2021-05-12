@@ -3,6 +3,16 @@ entries:
   contactform:
   - apiVersion: v2
     appVersion: 1.0.1
+    created: "2021-05-12T13:53:33.151189807Z"
+    description: A Helm chart for Kubernetes
+    digest: c2a481d255b11349bd8b72f7739362f351559ceabe6682cc3b1667af497497d8
+    name: contactform
+    type: application
+    urls:
+    - https://github.com/feyobekius/HelmCharts/releases/download/contactform-0.1.20/contactform-0.1.20.tgz
+    version: 0.1.20
+  - apiVersion: v2
+    appVersion: 1.0.1
     created: "2021-05-12T13:44:21.10454037Z"
     description: A Helm chart for Kubernetes
     digest: 45b37da57708d6ba91ca2e80941fb000e5017022c1427836a414954dac779f86
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://github.com/feyobekius/HelmCharts/releases/download/contactform-0.1.5/contactform-0.1.5.tgz
     version: 0.1.5
-generated: "2021-05-12T13:44:21.104566171Z"
+generated: "2021-05-12T13:53:33.151212307Z"
